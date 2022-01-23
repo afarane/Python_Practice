@@ -1,0 +1,9 @@
+2022-01-23 00:13:03,390 This is my info log
+2022-01-23 00:13:03,391 This is my warning log
+2022-01-23 00:13:03,391 This is my error log
+2022-01-23 00:13:03,391 This is my critical log
+2022-01-23 00:15:52,739 INFO This is my info log
+2022-01-23 00:15:52,740 WARNING This is my warning log
+2022-01-23 00:15:52,740 ERROR This is my error log
+2022-01-23 00:15:52,740 CRITICAL This is my critical log
+2022-01-23 00:17:52,277 INFO This is a base log
